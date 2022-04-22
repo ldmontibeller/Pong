@@ -11,3 +11,7 @@ img {
   width: 25%;
   height: auto;
 }
+
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
