@@ -12,6 +12,7 @@ img {
   height: auto;
 }
 
-.p {
+p {
   font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  color: blue;
 }
